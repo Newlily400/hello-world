@@ -1,2 +1,6 @@
 # hello-world
-newlily‘s first repository。😊
+newlily的第一个存储库。
+我是newlily，这是我的第一个储存库的分支，虽然还不太懂这些东西，
+但我会慢慢的学习使用GitHub。
+马上就要进入大学了，希望大学四年能把自己造的更加完美。
+也希望能和同学们好好相处！
